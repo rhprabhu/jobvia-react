@@ -1,0 +1,93 @@
+[
+  {
+    "role": "HTML Developer",
+    "years": "(0-2 Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Full Time", "color": "#048565", "background": "#04856526" },
+      { "name": "Urgent", "color": "#f7cc53", "background": "#f7cc5326" },
+      { "name": "Private", "color": "#5fd0f3", "background": "#5fd0f326" }
+    ]
+  },
+  {
+    "role": "Marketing Director",
+    "years": "(2-4 Yrs Exp.)",
+    "companyName": "Creative Agency",
+    "place": "New York",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Full Time", "color": "#da3746", "background": "#da374626" },
+      { "name": "Private", "color": "#1f86ef", "background": "#5fd0f326" }
+    ]
+  },
+  {
+    "role": "HTML Developer",
+    "years": "(2-4 Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Freelance", "color": "#048565", "background": "#04856526" },
+      { "name": "Internship", "color": "#5fd0f3", "background": "#5fd0f326" }
+    ]
+  },
+  {
+    "role": "Product Sales Specialist",
+    "years": "(5+ Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Freelance", "color": "#048565", "background": "#5fd0f326" },
+      { "name": "Private", "color": "#1f86ef", "background": "#5fd0f326" }
+    ]
+  },
+
+  {
+    "role": "Project Manager",
+    "years": "(0-2 Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Freelance", "color": "#1f86ef", "background": "#766df426"}
+    ]
+  },
+  {
+    "role": "HTML Developer",
+    "years": "(0-2 Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Freelance", "color": "#048565", "background":"#04856526" },
+      { "name": "Urgent", "color": "#f7cc53", "background": "#f7cc5326" },
+      { "name": "Private", "color": "#1f86ef", "background": "#5fd0f326" }
+    ]
+  },
+  {
+    "role": "Business Associate ",
+    "years": "(0-2 Yrs Exp.)",
+    "companyName": "Jobvia Technology Pvt.Ltd",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Part Time", "color": "#da3746", "background": "#da374626" },
+      { "name": "Urgent", "color": "#f7cc53", "background": "#f7cc5326" }
+    ]
+  },
+  {
+    "role": "Product Designer",
+    "years": "(0-2 Yrs Exp.)",
+    "companyName": "Creative Agency",
+    "place": "California",
+    "salary": "$250 - $800 / month",
+    "tags": [
+      { "name": "Full Time", "color": "#048565", "background": "#04856526" },
+      { "name": "Urgent", "color": "#f7cc53", "background": "#f7cc5326" },
+      { "name": "Private", "color": "#5fd0f3", "background": "#5fd0f326" }
+    ]
+  }
+]
